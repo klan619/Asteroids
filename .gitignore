@@ -9,3 +9,11 @@ wheels/
 # Virtual environments
 .venv
 game_state.jsonl
+game_events.jsonl
+
+venv/
+__pycache__/
+build/
+dist/
+*.spec
+highscore.txt
